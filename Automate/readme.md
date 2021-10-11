@@ -1,6 +1,6 @@
 <h1>Discription</h1>
 
-> This project helps in managing SQL database using python3
+> This project helps in managing SQL database by using python3 programming.
 >\
 ![LGwvgbT](https://user-images.githubusercontent.com/58760825/136755475-4a30617d-292d-41a1-964a-f6922891c4d2.jpg)
 
