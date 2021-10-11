@@ -1,7 +1,8 @@
+
 #include<bits/stdc++.h>
 
 using namespace std;
-
+//Rights reserved for DEVSTRONS'
 int HID_no=rand();
 
 int main(){
