@@ -2,7 +2,7 @@
 
 
 #**DISCRIPTION**
-> Its a Simple CPP coded game which accepts participation of 4 players and each player has 10 attempts to guess the hidden nunmber,the first person to get the number will be the winner.
+> Its a Simple CPP coded game which accepts participation of 4 players and each player has 10 attempts to guess the hidden nunmber,the first person to get the number will be the winner..
 
 #**INSTALLATION**
-> It just needs c++ installed in system environment
+> It just needs c++ installed in system environment.
