@@ -20,3 +20,4 @@
 <h1> How to use </h1>
 
 > Just run the file - School_management_system.py
+.
