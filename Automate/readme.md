@@ -1,6 +1,10 @@
 <h1>Discription</h1>
 
-> This project helps in managing database for schools like adding details ,editing details,etc
+> This project helps in managing SQL database using python3
+>\
+![LGwvgbT](https://user-images.githubusercontent.com/58760825/136755475-4a30617d-292d-41a1-964a-f6922891c4d2.jpg)
+
+
 
 <h1>Requirements</h1>
 
