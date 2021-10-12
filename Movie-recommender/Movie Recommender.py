@@ -18,7 +18,6 @@ def romantic():
         chh=random.choice(line)
         return chh
 
-
 ch=random.choice(["Action","Horror","Romantic"])
 
 if ch == "Action":
@@ -27,3 +26,4 @@ elif ch=="Romantic":
     print("Today you should watch : ",romantic())
 else :
     print("Today you should watch : ",horror())
+    
