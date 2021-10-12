@@ -1,0 +1,138 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Palette+Mosaic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=MonteCarlo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=MonteCarlo&display=swap');
+div.Main_bar{
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+    padding-right: 107px;
+    background-color: rgb(6, 71, 145);
+    margin-bottom: 10px;
+    position:fixed;
+}
+
+span.site_name1{
+    font-family: 'MonteCarlo', cursive;
+    font-size: 42px;
+    vertical-align: 14px ;    
+    color: rgba(255, 255, 255, 0.651);
+    stroke:white;
+    font-weight: bold;
+    stroke-width: 20px;
+}
+
+span.site_name2{
+    font-family: 'MonteCarlo', cursive;;
+    font-size: 42px;
+    font-weight: bold;
+    vertical-align: 14px ;    
+    color: rgba(15, 144, 161, 0.904);
+    stroke:white;
+    stroke-width: 20px;
+}
+
+div.sub_bar{
+    background-color: lightblue;
+    border-style: solid;
+    padding-bottom: 17px;
+    margin-bottom: -44px;
+    margin-top: -28px;
+    margin-left: -9px;
+    margin-right: -8px;
+    padding-top: 96px;
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+    border-color: lightseagreen;
+    border-width: 1px;
+}
+
+#Search-Box{
+    margin-left: 820px;
+    block-size: 28px;
+    border-radius: 48px;
+    border-width: 4px;
+    vertical-align: 25px;
+}
+
+button.Search-box{
+    vertical-align:25px;
+    block-size: 28px;
+    border-radius: 48px;
+
+}
+
+div.left-block{
+    background-color: rgba(128, 128, 128, 0.322);
+    border-style: solid;
+    margin-right: 1097px;
+    border-top: transparent;
+    border-left: transparent;
+    border-bottom: transparent;
+    border-color: rgba(0, 0, 0, 0.295);
+    border-width: 1px;
+    padding-bottom: 497px;
+    margin-left: -10px;
+    padding-left: 13px;
+}
+
+p.Categories-head{
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 26px;
+}
+
+div.categories-item-table-block{
+    margin-top: -43px;
+    /* border-style: solid; */
+}
+
+li.categories-items{
+    margin-bottom: 14px;
+}
+
+span.sub-bar-home{
+    padding-left: 2px;
+    margin-left: 192px;
+    /* border-style: solid; */
+}
+span.sub-bar-page2{
+    padding-left: 2px;
+    margin-left: 192px;
+    /* border-style: solid; */
+}
+
+span.sub-bar-page3{
+    padding-left: 2px;
+    margin-left: 192px;
+    /* border-style: solid; */
+}
+
+span.sub-bar-page4{
+    padding-left: 2px;
+    margin-left: 192px;
+    /* border-style: solid; */
+}
+
+span.sub-bar-page5{
+    padding-left: 2px;
+    margin-left: 192px;
+    /* border-style: solid; */
+}
+
+a.sub-bar-text{
+    color: black;
+    font-weight: bold;
+    text-decoration: transparent;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    /* pointer-events:inherit; */
+}
+
+a.categories-items{
+    color: black;
+    text-decoration: transparent;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    pointer-events:inherit;
+}
